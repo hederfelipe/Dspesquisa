@@ -34,8 +34,9 @@ import com.devsuperior.dspesquisa.entities.enums.Platform;
 	@JoinColumn(name = "genre_id")
 	private Genre genre;
 	
+	
 	@OneToMany(mappedBy = "game")
-	List<Record>record = new ArrayList<>();
+	private List<Record> record = new ArrayList<>();
 	
 	public Game() {
 		

@@ -11,13 +11,12 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 @Entity
 @Table(name = "tb_record")
 public class Record implements Serializable {
-	/**
-	 * 
-	 */
-	
+
 	private static final long serialVersionUID = 1L;
 	
 	@Id
@@ -26,6 +25,7 @@ public class Record implements Serializable {
 	private String name;
 	private Integer age;
 	private Instant moment;
+	
 	
 	@ManyToOne
 	@JoinColumn(name = "game_id")

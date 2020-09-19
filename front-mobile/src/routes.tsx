@@ -1,8 +1,6 @@
 import React from 'react';
-
 import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
-import { ScreenStack } from 'react-native-screens';
 import Home from './pages/Home';
 import CreateRecord from './pages/CreateRecord';
 

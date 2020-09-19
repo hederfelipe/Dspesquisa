@@ -18,7 +18,7 @@ const Records =()=>{
 
     }, [activePage]);
 
-    function handlePageChange(index: number) {
+    const handlePageChange = (index: number) =>{
         setactivePage(index);
     }
 

@@ -81,11 +81,8 @@
 </h2>
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/60014586/89923055-5a23c780-dbd6-11ea-9166-ae9376451fcf.png">
-  <img src="https://user-images.githubusercontent.com/60014586/89923382-e2a26800-dbd6-11ea-87ed-db3035d48c13.png">
-  <img src="https://user-images.githubusercontent.com/60014586/89923666-4d53a380-dbd7-11ea-88a3-e662f7bc0893.png">
-  <img src="https://user-images.githubusercontent.com/60014586/89923671-4f1d6700-dbd7-11ea-9a27-13c960640b03.png">
-  <img src="https://user-images.githubusercontent.com/60014586/89923677-504e9400-dbd7-11ea-92a3-9329ba294404.png">
+  <img src="">
+
   <br>
   Desenvolvido por HEDER FELIPE
   </p>

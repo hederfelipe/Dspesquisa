@@ -80,13 +80,17 @@
   <g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥</g-emoji> Preview
 </h2>
 </p>
-<p align="center" border=">
+<p align="center" >
   <img src="https://user-images.githubusercontent.com/60014586/93805015-7bd48d80-fc1d-11ea-8470-922852787b39.png">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/60014586/93806774-0f0ec280-fc20-11ea-9e2d-f90c71425889.png">
+  <img width="300px" height="600px  src="https://user-images.githubusercontent.com/60014586/93805497-3795bd00-fc1e-11ea-9329-5c60efc1c677.jpeg">
   
+ 
 
   <br>
+  <strong>
   Desenvolvido por HEDER FELIPE
+  </strong>
   </p>
 
 

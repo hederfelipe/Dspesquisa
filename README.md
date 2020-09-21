@@ -81,8 +81,8 @@
 </h2>
 </p>
 <p align="center" border=">
-  <img width="300px" height="300px" src="https://user-images.githubusercontent.com/60014586/93805015-7bd48d80-fc1d-11ea-8470-922852787b39.png">
-  <img width="300px" height="600px" src="https://user-images.githubusercontent.com/60014586/93805497-3795bd00-fc1e-11ea-9329-5c60efc1c677.jpeg">
+  <img src="">
+  <img src="">
   
 
   <br>

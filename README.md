@@ -87,10 +87,11 @@
   
  
 
-  <br>
-  <strong>
+
+  <a>
+  <strong >
   Desenvolvido por HEDER FELIPE
   </strong>
-  </p>
+  </a>
 
 

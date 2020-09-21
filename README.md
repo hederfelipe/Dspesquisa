@@ -48,15 +48,26 @@
     
    <p>Front End</p>
    
-   <li>CSS</li>
-   <li>HTML</li>
-   <li>JavaScript</li>
+   <li>React</li>
+   <li>React Native</li>
+   <li>Type Script</li>
     <p></p>
    <p>Back End</p>
     
-   <li>Node.js</li>
-   <li>Nunjucks</li>
-   <li>SQlite</li>
+   <li>Java</li>
+   <li>Banco de dados Postgress</li>
+   <li>Node.Js</li>
+    <p></p>
+   <p>Ferramentas</p>
+  <li>JDK 11</li>
+  <li>STS</li>
+  <li>Postman</li>
+  <li>Postgresql 12 e pgAdmin</li>
+   <li>Heroku CLI</li>
+   <li>NPM</li>
+   <li>VS Code</li>
+   <li>Git</li>
+   <li>Playlis</li>
   </ul>
 <hr></hr>
 

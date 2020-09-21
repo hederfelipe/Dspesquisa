@@ -88,10 +88,10 @@
  
 
 
-  <a>
+  <p>
   <strong >
   Desenvolvido por HEDER FELIPE
   </strong>
-  </a>
+  </p>
 
 

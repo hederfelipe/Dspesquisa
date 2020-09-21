@@ -86,7 +86,7 @@
   <img src="https://user-images.githubusercontent.com/60014586/93805497-3795bd00-fc1e-11ea-9329-5c60efc1c677.jpeg">
   
  
-<hr> <p>
+<hr> <p margin-center>
  
   Desenvolvido por HEDER FELIPE
   

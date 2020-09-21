@@ -31,7 +31,7 @@
   </a>
   <g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> Sobre
 </h2>
-  <p>Projeto criado durante a campanha <strong><a href="https://nextlevelweek.com/" rel="nofollow">Next Level Week #2</a></strong>
+  <p>Entre no app e vote na plataforma e no seu game favorito<strong><a href="https://nextlevelweek.com/" rel="nofollow">Next Level Week #2</a></strong>
   , realizada pela <strong><a href="https://github.com/Rocketseat">@Rocketseat</a></strong> durante os dias 3 à 9 de Agosto de 2020.
 <hr></hr>
 

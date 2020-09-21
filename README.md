@@ -86,11 +86,11 @@
   <img src="https://user-images.githubusercontent.com/60014586/93805497-3795bd00-fc1e-11ea-9329-5c60efc1c677.jpeg">
   
  
-<h1 text-align: center> <p >
+<h1 text-align: center> 
  
   Desenvolvido por HEDER FELIPE
   
-  </h1> </hr>
+  </h1>
 
 
  

@@ -31,8 +31,8 @@
   </a>
   <g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> Sobre
 </h2>
-  <p>Entre no app e vote na plataforma e no seu game favorito, baixe o apk e faça a instalação <strong><a href="https://user-images.githubusercontent.com/60014586/93799398-7f641680-fc15-11ea-92dd-708fa230eaea.png" rel="nofollow">Clique no link</a></strong>
-  ,  >>>https://expo.io/artifacts/d62e7b84-6033-499d-9804-c55562bb4799 <<<< <strong><a href=" Site do resultado dos votos  "> </a></strong> https://sds1-heder.netlify.app/records
+  <p>Entre no app e vote na plataforma e no seu game favorito, baixe o apk e faça a instalação <strong><a href="https://expo.io/artifacts/d62e7b84-6033-499d-9804-c55562bb4799" rel="nofollow">Clique aqui</a></strong>
+  ,  Acesse o site do resultado dos votos   <strong><a href=e Site do resultado dos votos   "> </a></strong> https://sds1-heder.netlify.app/records
 <hr></hr>
 
 <h2>
